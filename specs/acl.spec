@@ -1,5 +1,5 @@
 Name:           acl
-Version:        2.3.1
+Version:        2.3.2
 Release:        1%{?dist}
 Summary:        Access control list utilities
 License:        GPLv2+
