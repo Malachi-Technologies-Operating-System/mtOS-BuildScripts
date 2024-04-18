@@ -1,5 +1,5 @@
 Name:           attr
-Version:        2.5.1
+Version:        2.5.2
 Release:        1%{?dist}
 Summary:        Utilities for managing filesystem extended attributes
 License:        GPLv2+

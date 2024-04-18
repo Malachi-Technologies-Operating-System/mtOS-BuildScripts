@@ -1,5 +1,5 @@
 Name:           systemd
-Version:        254
+Version:        255
 Release:        1%{?dist}
 Summary:        System and Service Manager
 License:        LGPLv2+ and MIT and GPLv2+

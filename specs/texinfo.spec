@@ -1,5 +1,5 @@
 Name:           texinfo
-Version:        7.0.3
+Version:        7.1
 Release:        1%{?dist}
 Summary:        Programs for reading, writing, and converting info pages
 License:        GPLv3+

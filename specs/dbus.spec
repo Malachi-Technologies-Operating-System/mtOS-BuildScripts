@@ -1,5 +1,5 @@
 Name:           dbus 
-Version:        1.14.8
+Version:        1.14.10
 Release:        1%{?dist}
 Summary:        D-BUS message bus
 License:        (AFL-2.1 OR GPL-2.0-or-later) AND GPL-2.0-or-later

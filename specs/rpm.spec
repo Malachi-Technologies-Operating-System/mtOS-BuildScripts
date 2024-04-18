@@ -1,5 +1,5 @@
 Name:           rpm
-Version:        4.19.0
+Version:        4.19.1
 Release:        1%{?dist}
 Summary:        The RPM package management system
 License:        GPLv2+

@@ -1,5 +1,5 @@
 Name:           inetutils
-Version:        2.4
+Version:        2.5
 Release:        1%{?dist}
 Summary:        A collection of common network programs
 License:        GPLv2+

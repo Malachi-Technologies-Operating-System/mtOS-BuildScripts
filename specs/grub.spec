@@ -1,5 +1,5 @@
 Name:           grub
-Version:        2.06
+Version:        2.12
 Release:        1%{?dist}
 Summary:        The GRand Unified Bootloader
 License:        GPLv3+

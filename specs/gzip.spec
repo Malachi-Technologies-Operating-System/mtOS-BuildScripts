@@ -1,5 +1,5 @@
 Name:           gzip
-Version:        1.12
+Version:        1.13
 Release:        1%{?dist}
 Summary:        The GNU data compression program
 License:        GPLv3+ and GFDL

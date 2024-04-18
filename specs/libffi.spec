@@ -1,5 +1,5 @@
 Name:           libffi
-Version:        3.4.4
+Version:        3.4.6
 Release:        1%{?dist}
 Summary:        A portable foreign function interface library
 License:        MIT

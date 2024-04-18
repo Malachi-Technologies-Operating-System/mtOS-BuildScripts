@@ -1,5 +1,5 @@
 Name:           bash
-Version:        5.2.15
+Version:        5.2.21
 Release:        1%{?dist}
 Summary:        The GNU Bourne Again shell
 License:        GPLv3+

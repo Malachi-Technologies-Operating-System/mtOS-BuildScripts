@@ -1,5 +1,5 @@
 Name:           perl
-Version:        5.38.0
+Version:        5.38.2
 %global         perl_version 5.38
 Release:        1%{?dist}
 Summary:        Practical Extraction and Report Language

@@ -22,13 +22,13 @@ mkdir -p _build
 cd _build
 cmake \
       -DCMAKE_INSTALL_PREFIX=/usr \
-      -DCMAKE_INSTALL_LIBDIR=/lib \
+      -DCMAKE_INSTALL_LIBDIR=/lib64 \
       -DENABLE_NLS=OFF \
       -DENABLE_OPENMP=OFF \
       -DENABLE_PYTHON=OFF \
       -DENABLE_SQLITE=OFF \
       -DENABLE_TESTSUITE=OFF \
-      -DRPM_CONFIGDIR=/usr/lib/rpm \
+      -DRPM_CONFIGDIR=/usr/lib64/rpm \
       -DRPM_VENDOR=lfs \
       -DWITH_ACL=OFF \
       -DWITH_ARCHIVE=OFF \

@@ -1,5 +1,5 @@
 Name:           mpfr
-Version:        4.2.0
+Version:        4.2.1
 Release:        1%{?dist}
 Summary:        A C library for multiple-precision floating-point computations
 License:        LGPLv3+ or GPLv2+

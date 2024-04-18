@@ -1,5 +1,5 @@
 Name:           openssl
-Version:        3.1.2
+Version:        3.3.0
 Release:        1%{?dist}
 Summary:        Utilities from the general purpose cryptography library with TLS implementation
 License:        OpenSSL and ASL 2.0

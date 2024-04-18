@@ -1,5 +1,5 @@
 Name:           python-Jinja2
-Version:        3.1.2
+Version:        3.1.3
 Release:        1%{?dist}
 Summary:        General purpose template engine for python
 License:        BSD

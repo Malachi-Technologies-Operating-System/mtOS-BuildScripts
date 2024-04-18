@@ -1,5 +1,5 @@
 Name:           python-wheel
-Version:        0.41.1
+Version:        0.43.0
 Release:        1%{?dist}
 Summary:        Built-package format for Python
 License:        MIT
