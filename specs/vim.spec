@@ -5,7 +5,7 @@ Release:        1%{?dist}
 Summary:        Visual editor improved
 License:        Vim and MIT
 
-Source0:        https://anduin.linuxfromscratch.org/LFS/vim-%{version}.tar.gz
+Source0:        https://anduin.linuxfromscratch.org/LFS/vim-%{version}.tar.xz
 
 %description
 VIM (VIsual editor iMproved) is an updated and improved version of the vi

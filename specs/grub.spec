@@ -5,7 +5,7 @@ Summary:        The GRand Unified Bootloader
 License:        GPLv3+
 
 Source0:        https://ftp.gnu.org/gnu/grub/grub-%{version}.tar.xz
-Patch0:         https://www.linuxfromscratch.org/patches/lfs/%{lfs_version}/grub-%{version}-upstream_fixes-1.patch
+# Patch0:         https://www.linuxfromscratch.org/patches/lfs/%{lfs_version}/grub-%{version}-upstream_fixes-1.patch
 
 
 %description
@@ -17,7 +17,7 @@ turn, initializes the rest of the operating system (e.g. GNU).
 #---------------------------------------------------------------------------
 %prep
 %setup -q
-%patch 0 -p 1
+# %patch 0 -p 1
 
 #---------------------------------------------------------------------------
 %build

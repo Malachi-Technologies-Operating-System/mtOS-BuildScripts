@@ -5,7 +5,7 @@ Summary:        A library for editing typed command lines
 License:        GPLv3+
 
 Source0:        https://ftp.gnu.org/gnu/readline/readline-%{version}.tar.gz
-Patch0:         https://www.linuxfromscratch.org/patches/lfs/%{lfs_version}/readline-%{version}-upstream_fix-1.patch
+Patch0:         https://www.linuxfromscratch.org/patches/lfs/%{lfs_version}/readline-%{version}-upstream_fixes-3.patch
 
 %description
 The Readline library provides a set of functions that allow users to edit

@@ -1,5 +1,5 @@
 Name:           coreutils
-Version:        9.5
+Version:        9.4
 Release:        1%{?dist}
 Summary:        A set of basic GNU tools commonly used in shell scripts
 License:        GPLv3+
