@@ -23,7 +23,7 @@ these two libraries, a Linux system will not function.
 #---------------------------------------------------------------------------
 %prep
 %setup -q
-%patch 0 -p1
+# %patch 0 -p1
 
 %if %{without %lfs_stage1}
 %patch 1 -p1

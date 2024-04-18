@@ -16,7 +16,7 @@ GNU fileutils, sh-utils, and textutils packages.
 %setup -q
 
 %if %{without lfs_stage1}
-%patch 0 -p1 
+# %patch 0 -p1 
 %endif 
 
 #---------------------------------------------------------------------------
