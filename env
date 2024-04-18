@@ -10,10 +10,10 @@ lfs_init_user=mtos
 lfs_dir=/mtOS
 lfs_tools_dir=${lfs_dir}/tools
 lfs_tgt=x86_64-mtOS-linux-gnu
-lfs_root_img=build/mtOS-beta-root.img
+lfs_root_img=build/mtOSBeta-root.img
 
-lfs_version_1=mtOS-beta
-lfs_dist=.mtOS-beta
+lfs_version_1=mtOSBeta
+lfs_dist=.mtOSBeta
 
 if [ -e local.env ] ; then
     . ./local.env
