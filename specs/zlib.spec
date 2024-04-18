@@ -1,5 +1,5 @@
 Name:           zlib
-Version:        1.3.1
+Version:        1.2.9
 Release:        1%{?dist}
 Summary:        The compression and decompression library
 License:        zlib and Boost

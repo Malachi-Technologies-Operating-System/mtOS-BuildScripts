@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        LZMA compression utilities
 License:        GPLv2+ and Public Domain
 
-Source0:        https://tukaani.org/xz/xz-%{version}.tar.xz
+Source0:        https://github.com/tukaani-project/xz/releases/download/v%{version}/xz-%{version}.tar.xz
 
 %description
 XZ Utils are an attempt to make LZMA compression easy to use on free (as in

@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        Collection of basic system utilities
 License:        GPLv2 and GPLv2+ and LGPLv2+ and BSD with advertising and Public Domain
 
-Source0:        https://www.kernel.org/pub/linux/utils/util-linux/v2.39/util-linux-%{version}.tar.xz
+Source0:        https://www.kernel.org/pub/linux/utils/util-linux/v%{version}/util-linux-%{version}.tar.xz
 
 %description 
 The util-linux package contains a large variety of low-level system
@@ -25,7 +25,7 @@ mkdir -pv %{buildroot}/var/lib/hwclock
 ./configure ADJTIME_PATH=/var/lib/hwclock/adjtime    \
             --libdir=/usr/lib    \
             --runstatedir=/run   \
-            --docdir=/usr/share/doc/util-linux-2.39.1 \
+            --docdir=/usr/share/doc/util-linux-%{version} \
             --disable-chfn-chsh  \
             --disable-login      \
             --disable-nologin    \
